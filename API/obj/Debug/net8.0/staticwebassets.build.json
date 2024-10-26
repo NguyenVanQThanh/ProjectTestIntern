@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JOQouZpkU3ZD+tHRgKbBTK6SXSHJkTnNnjOwpF1FQBc=",
+  "Hash": "e2A3u6nHcbcDWPwAu5I1ICMZkvLW4gYdW+/L756dbPU=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -74,12 +74,12 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "D:\\Code\\CSharp\\ProjectTestInternGoldenOwn\\API\\wwwroot\\main-OHKXIMJF.js",
+      "Identity": "D:\\Code\\CSharp\\ProjectTestInternGoldenOwn\\API\\wwwroot\\main-NAGKTBKD.js",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Code\\CSharp\\ProjectTestInternGoldenOwn\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "main-OHKXIMJF.js",
+      "RelativePath": "main-NAGKTBKD.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -90,7 +90,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\main-OHKXIMJF.js"
+      "OriginalItemSpec": "wwwroot\\main-NAGKTBKD.js"
     },
     {
       "Identity": "D:\\Code\\CSharp\\ProjectTestInternGoldenOwn\\API\\wwwroot\\polyfills-FFHMD2TL.js",

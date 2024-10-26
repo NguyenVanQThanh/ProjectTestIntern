@@ -1,3 +1,6 @@
+# Docs for the Azure Web Apps Deploy action: https://github.com/Azure/webapps-deploy
+# More GitHub Actions for Azure: https://github.com/Azure/actions
+
 name: Build and deploy ASP.Net Core app to Azure Web App - weather-api-intern
 
 on:
@@ -48,9 +51,9 @@ jobs:
       - name: Login to Azure
         uses: azure/login@v2
         with:
-          client-id: ${{ secrets.AZUREAPPSERVICE_CLIENTID_EFD8BA365BA74329B4C05A6E4088952F }}
-          tenant-id: ${{ secrets.AZUREAPPSERVICE_TENANTID_7BEB23DBA09F428184FDEBEC0F14AD79 }}
-          subscription-id: ${{ secrets.AZUREAPPSERVICE_SUBSCRIPTIONID_2DB90DCBC7C64525A513EF59E3FB519B }}
+          client-id: ${{ secrets.AZUREAPPSERVICE_CLIENTID_9A328A5B0AE546878DBE248900320388 }}
+          tenant-id: ${{ secrets.AZUREAPPSERVICE_TENANTID_BFFE8863B3E144919B7EAF8EA12EA2BB }}
+          subscription-id: ${{ secrets.AZUREAPPSERVICE_SUBSCRIPTIONID_75E3687D600D4454AED2211B1F2EC518 }}
 
       - name: Deploy to Azure Web App
         id: deploy-to-webapp
@@ -59,3 +62,4 @@ jobs:
           app-name: 'weather-api-intern'
           slot-name: 'Production'
           package: .
+          

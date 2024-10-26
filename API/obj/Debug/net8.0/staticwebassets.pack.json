@@ -1,27 +1,27 @@
 {
   "Files": [
     {
-      "Id": "D:\\Code\\CSharp\\ProjectTestInternGoldenOwn\\APi\\wwwroot\\3rdpartylicenses.txt",
+      "Id": "D:\\Code\\CSharp\\ProjectTestInternGoldenOwn\\API\\wwwroot\\3rdpartylicenses.txt",
       "PackagePath": "staticwebassets\\3rdpartylicenses.txt"
     },
     {
-      "Id": "D:\\Code\\CSharp\\ProjectTestInternGoldenOwn\\APi\\wwwroot\\favicon.ico",
+      "Id": "D:\\Code\\CSharp\\ProjectTestInternGoldenOwn\\API\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\Code\\CSharp\\ProjectTestInternGoldenOwn\\APi\\wwwroot\\index.html",
+      "Id": "D:\\Code\\CSharp\\ProjectTestInternGoldenOwn\\API\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "D:\\Code\\CSharp\\ProjectTestInternGoldenOwn\\APi\\wwwroot\\main-OHKXIMJF.js",
+      "Id": "D:\\Code\\CSharp\\ProjectTestInternGoldenOwn\\API\\wwwroot\\main-OHKXIMJF.js",
       "PackagePath": "staticwebassets\\main-OHKXIMJF.js"
     },
     {
-      "Id": "D:\\Code\\CSharp\\ProjectTestInternGoldenOwn\\APi\\wwwroot\\polyfills-FFHMD2TL.js",
+      "Id": "D:\\Code\\CSharp\\ProjectTestInternGoldenOwn\\API\\wwwroot\\polyfills-FFHMD2TL.js",
       "PackagePath": "staticwebassets\\polyfills-FFHMD2TL.js"
     },
     {
-      "Id": "D:\\Code\\CSharp\\ProjectTestInternGoldenOwn\\APi\\wwwroot\\styles-BBURD7AU.css",
+      "Id": "D:\\Code\\CSharp\\ProjectTestInternGoldenOwn\\API\\wwwroot\\styles-BBURD7AU.css",
       "PackagePath": "staticwebassets\\styles-BBURD7AU.css"
     },
     {

@@ -1,3 +1,4 @@
+.vs/
 API/bin/Debug/net8.0/secret.json
 API/bin/Debug/net8.0/appsettings.json
 API/bin/Release/net8.0/API.deps.json

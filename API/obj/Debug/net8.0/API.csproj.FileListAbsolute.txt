@@ -144,3 +144,4 @@ D:\Code\CSharp\ProjectTestInternGoldenOwn\API\bin\Debug\net8.0\FluentEmail.Core.
 D:\Code\CSharp\ProjectTestInternGoldenOwn\API\bin\Debug\net8.0\FluentEmail.Smtp.dll
 d:\Code\CSharp\ProjectTestInternGoldenOwn\API\bin\Debug\net8.0\secret.json
 D:\Code\CSharp\ProjectTestInternGoldenOwn\APi\bin\Debug\net8.0\API.staticwebassets.runtime.json
+D:\Code\CSharp\ProjectTestInternGoldenOwn\API\obj\Debug\net8.0\API.sourcelink.json

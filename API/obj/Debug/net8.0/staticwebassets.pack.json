@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Code\\CSharp\\ProjectTestInternGoldenOwn\\APi\\wwwroot\\3rdpartylicenses.txt",
+      "PackagePath": "staticwebassets\\3rdpartylicenses.txt"
+    },
+    {
+      "Id": "D:\\Code\\CSharp\\ProjectTestInternGoldenOwn\\APi\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Code\\CSharp\\ProjectTestInternGoldenOwn\\APi\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\Code\\CSharp\\ProjectTestInternGoldenOwn\\APi\\wwwroot\\main-OHKXIMJF.js",
+      "PackagePath": "staticwebassets\\main-OHKXIMJF.js"
+    },
+    {
+      "Id": "D:\\Code\\CSharp\\ProjectTestInternGoldenOwn\\APi\\wwwroot\\polyfills-FFHMD2TL.js",
+      "PackagePath": "staticwebassets\\polyfills-FFHMD2TL.js"
+    },
+    {
+      "Id": "D:\\Code\\CSharp\\ProjectTestInternGoldenOwn\\APi\\wwwroot\\styles-BBURD7AU.css",
+      "PackagePath": "staticwebassets\\styles-BBURD7AU.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.API.props",
+      "PackagePath": "build\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.API.props",
+      "PackagePath": "buildMultiTargeting\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.API.props",
+      "PackagePath": "buildTransitive\\API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

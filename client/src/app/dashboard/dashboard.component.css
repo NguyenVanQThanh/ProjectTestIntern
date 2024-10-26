@@ -1,0 +1,12 @@
+.weather-dashboard {
+  max-width: 800px;
+  margin: auto;
+}
+
+.current-weather {
+  background-color: #e0ebff;
+}
+
+.forecast-card {
+  background-color: #f7f9fc;
+}

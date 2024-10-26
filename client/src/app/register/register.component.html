@@ -1,0 +1,27 @@
+<h2 class="h2 mb-3 text-center">Register</h2>
+<form class="search-section card p-3 mb-4 mt-2" #registerForm="ngForm" autocomplete="off">
+  <label for="emailInput" class="form-label">Enter your Email</label>
+  <input
+    type="email"
+    name="email"
+    [(ngModel)]="email"
+    id="emailInput"
+    class="form-control mb-2"
+    placeholder="E.g., example@domain.com"
+    required
+  />
+
+  <label for="locationInput" class="form-label">Enter a City Name</label>
+  <input
+    type="text"
+    name="location"
+    [(ngModel)]="location"
+    id="locationInput"
+    class="form-control mb-2"
+    placeholder="E.g., New York, London, Tokyo"
+    required
+  />
+
+  <button type="submit" class="btn btn-primary w-100 mb-2" (click)="onSubmit()">Submit</button>
+  <button type="button" class="btn btn-secondary w-100" (click)="onCancel()">Cancel</button>
+</form>

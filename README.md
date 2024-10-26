@@ -18,4 +18,6 @@ Tạo file có nội dung như sau: </br>
 ```
 ## 3. Chạy chương trình
 Chạy câu lệnh `dotnet watch run` và mở theo url hiển thị trên terminal
+## 4. Link tham khảo
+https://weather-api-intern-daffagg7ctfcehbf.southeastasia-01.azurewebsites.net/
 
